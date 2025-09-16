@@ -1,0 +1,851 @@
+{
+  "timestamp": "2025-08-24T12:04:27.748838",
+  "execution_time_seconds": 182.43460297584534,
+  "tool_status": "SUCCESS",
+  "confidence_score": 0.9880618594729359,
+  "quality_score": 0.0,
+  "start_time": "2025-08-24T12:01:25.314208",
+  "end_time": "2025-08-24T12:04:27.748785",
+  "tool_name": "IRIS_Spectroscopy_Analysis",
+  "query_used": "Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation.",
+  "context_provided": {
+    "domain": "climate_spectroscopy",
+    "research_focus": "active_spectroscopy_sai"
+  },
+  "iris_analysis_results": {
+    "query": "Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation.",
+    "execution_summary": {
+      "mcts_iterations": 300,
+      "tree_visits": 300,
+      "concepts_explored": 70,
+      "cross_domain_insights": 80,
+      "overall_confidence": 0.9880618594729359
+    },
+    "insights": [
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 8 interconnected concepts. Cross-domain connections identified novel research opportunities. 8 concepts showed high research value.",
+        "supporting_papers_count": 16
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 8 interconnected concepts. Cross-domain connections identified novel research opportunities. 8 concepts showed high research value.",
+        "supporting_papers_count": 16
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 7 interconnected concepts. Cross-domain connections identified novel research opportunities. 7 concepts showed high research value.",
+        "supporting_papers_count": 14
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 atmospheric_chemistry across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 7 interconnected concepts. Cross-domain connections identified novel research opportunities. 7 concepts showed high research value.",
+        "supporting_papers_count": 13
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 atmospheric_chemistry across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 7 interconnected concepts. Cross-domain connections identified novel research opportunities. 7 concepts showed high research value.",
+        "supporting_papers_count": 13
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 6 interconnected concepts. Cross-domain connections identified novel research opportunities. 6 concepts showed high research value.",
+        "supporting_papers_count": 12
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 radiative_forcing across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 6 interconnected concepts. Cross-domain connections identified novel research opportunities. 6 concepts showed high research value.",
+        "supporting_papers_count": 10
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 radiative_forcing across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 6 interconnected concepts. Cross-domain connections identified novel research opportunities. 6 concepts showed high research value.",
+        "supporting_papers_count": 10
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 atmospheric_chemistry \u2192 chemical_kinetics \u2192 atmospheric_chemistry across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 8 interconnected concepts. Cross-domain connections identified novel research opportunities. 8 concepts showed high research value.",
+        "supporting_papers_count": 14
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 atmospheric_chemistry \u2192 chemical_kinetics \u2192 atmospheric_chemistry across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 8 interconnected concepts. Cross-domain connections identified novel research opportunities. 8 concepts showed high research value.",
+        "supporting_papers_count": 14
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 atmospheric_chemistry \u2192 chemical_kinetics across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 7 interconnected concepts. Cross-domain connections identified novel research opportunities. 7 concepts showed high research value.",
+        "supporting_papers_count": 13
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 atmospheric_chemistry \u2192 stratospheric_aerosols across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 7 interconnected concepts. Cross-domain connections identified novel research opportunities. 7 concepts showed high research value.",
+        "supporting_papers_count": 13
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 atmospheric_chemistry \u2192 stratospheric_aerosols across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 7 interconnected concepts. Cross-domain connections identified novel research opportunities. 7 concepts showed high research value.",
+        "supporting_papers_count": 13
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 atmospheric_chemistry across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 6 interconnected concepts. Cross-domain connections identified novel research opportunities. 6 concepts showed high research value.",
+        "supporting_papers_count": 11
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 5 interconnected concepts. Cross-domain connections identified novel research opportunities. 5 concepts showed high research value.",
+        "supporting_papers_count": 10
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 atmospheric_chemistry across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 5 interconnected concepts. Cross-domain connections identified novel research opportunities. 5 concepts showed high research value.",
+        "supporting_papers_count": 9
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 atmospheric_chemistry across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 5 interconnected concepts. Cross-domain connections identified novel research opportunities. 5 concepts showed high research value.",
+        "supporting_papers_count": 9
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 QBO_dynamics \u2192 wave_propagation across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 6 interconnected concepts. Cross-domain connections identified novel research opportunities. 6 concepts showed high research value.",
+        "supporting_papers_count": 9
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 QBO_dynamics \u2192 wave_propagation across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 6 interconnected concepts. Cross-domain connections identified novel research opportunities. 6 concepts showed high research value.",
+        "supporting_papers_count": 9
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 QBO_dynamics \u2192 stratospheric_circulation \u2192 QBO_dynamics across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 7 interconnected concepts. Cross-domain connections identified novel research opportunities. 7 concepts showed high research value.",
+        "supporting_papers_count": 9
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 QBO_dynamics \u2192 stratospheric_circulation \u2192 QBO_dynamics across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 7 interconnected concepts. Cross-domain connections identified novel research opportunities. 7 concepts showed high research value.",
+        "supporting_papers_count": 9
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 QBO_dynamics \u2192 stratospheric_circulation \u2192 wave_propagation \u2192 stratospheric_circulation across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 8 interconnected concepts. Cross-domain connections identified novel research opportunities. 8 concepts showed high research value.",
+        "supporting_papers_count": 11
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 QBO_dynamics \u2192 stratospheric_circulation \u2192 wave_propagation \u2192 stratospheric_circulation across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 8 interconnected concepts. Cross-domain connections identified novel research opportunities. 8 concepts showed high research value.",
+        "supporting_papers_count": 11
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 QBO_dynamics \u2192 stratospheric_circulation \u2192 wave_propagation across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 7 interconnected concepts. Cross-domain connections identified novel research opportunities. 7 concepts showed high research value.",
+        "supporting_papers_count": 10
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 QBO_dynamics \u2192 stratospheric_circulation across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 6 interconnected concepts. Cross-domain connections identified novel research opportunities. 6 concepts showed high research value.",
+        "supporting_papers_count": 9
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 QBO_dynamics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 QBO_dynamics across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 8 interconnected concepts. Cross-domain connections identified novel research opportunities. 8 concepts showed high research value.",
+        "supporting_papers_count": 12
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 QBO_dynamics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 QBO_dynamics across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 8 interconnected concepts. Cross-domain connections identified novel research opportunities. 8 concepts showed high research value.",
+        "supporting_papers_count": 12
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 QBO_dynamics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 7 interconnected concepts. Cross-domain connections identified novel research opportunities. 7 concepts showed high research value.",
+        "supporting_papers_count": 12
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 QBO_dynamics \u2192 stratospheric_aerosols \u2192 atmospheric_chemistry across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 7 interconnected concepts. Cross-domain connections identified novel research opportunities. 7 concepts showed high research value.",
+        "supporting_papers_count": 11
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 QBO_dynamics \u2192 stratospheric_aerosols \u2192 atmospheric_chemistry across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 7 interconnected concepts. Cross-domain connections identified novel research opportunities. 7 concepts showed high research value.",
+        "supporting_papers_count": 11
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 QBO_dynamics \u2192 stratospheric_aerosols across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 6 interconnected concepts. Cross-domain connections identified novel research opportunities. 6 concepts showed high research value.",
+        "supporting_papers_count": 10
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 QBO_dynamics across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 5 interconnected concepts. Cross-domain connections identified novel research opportunities. 5 concepts showed high research value.",
+        "supporting_papers_count": 8
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 aerosol_microphysics across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 4 interconnected concepts. Cross-domain connections identified novel research opportunities. 4 concepts showed high research value.",
+        "supporting_papers_count": 8
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 radiative_forcing across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 4 interconnected concepts. Cross-domain connections identified novel research opportunities. 4 concepts showed high research value.",
+        "supporting_papers_count": 6
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 radiative_forcing across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 4 interconnected concepts. Cross-domain connections identified novel research opportunities. 4 concepts showed high research value.",
+        "supporting_papers_count": 6
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 atmospheric_chemistry \u2192 chemical_kinetics across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 5 interconnected concepts. Cross-domain connections identified novel research opportunities. 5 concepts showed high research value.",
+        "supporting_papers_count": 9
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 atmospheric_chemistry \u2192 chemical_kinetics across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 5 interconnected concepts. Cross-domain connections identified novel research opportunities. 5 concepts showed high research value.",
+        "supporting_papers_count": 9
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 atmospheric_chemistry \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 atmospheric_chemistry across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 8 interconnected concepts. Cross-domain connections identified novel research opportunities. 8 concepts showed high research value.",
+        "supporting_papers_count": 14
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 atmospheric_chemistry \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 atmospheric_chemistry across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 8 interconnected concepts. Cross-domain connections identified novel research opportunities. 8 concepts showed high research value.",
+        "supporting_papers_count": 14
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 atmospheric_chemistry \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 7 interconnected concepts. Cross-domain connections identified novel research opportunities. 7 concepts showed high research value.",
+        "supporting_papers_count": 13
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 atmospheric_chemistry \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 atmospheric_chemistry across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 7 interconnected concepts. Cross-domain connections identified novel research opportunities. 7 concepts showed high research value.",
+        "supporting_papers_count": 12
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 atmospheric_chemistry \u2192 stratospheric_aerosols \u2192 aerosol_microphysics \u2192 atmospheric_chemistry across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 7 interconnected concepts. Cross-domain connections identified novel research opportunities. 7 concepts showed high research value.",
+        "supporting_papers_count": 12
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 atmospheric_chemistry \u2192 stratospheric_aerosols \u2192 aerosol_microphysics across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 6 interconnected concepts. Cross-domain connections identified novel research opportunities. 6 concepts showed high research value.",
+        "supporting_papers_count": 11
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 atmospheric_chemistry \u2192 stratospheric_aerosols \u2192 radiative_forcing \u2192 climate_feedback \u2192 albedo_modification across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 8 interconnected concepts. Cross-domain connections identified novel research opportunities. 8 concepts showed high research value.",
+        "supporting_papers_count": 10
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 atmospheric_chemistry \u2192 stratospheric_aerosols \u2192 radiative_forcing \u2192 climate_feedback \u2192 albedo_modification across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 8 interconnected concepts. Cross-domain connections identified novel research opportunities. 8 concepts showed high research value.",
+        "supporting_papers_count": 10
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 atmospheric_chemistry \u2192 stratospheric_aerosols \u2192 radiative_forcing \u2192 climate_feedback across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 7 interconnected concepts. Cross-domain connections identified novel research opportunities. 7 concepts showed high research value.",
+        "supporting_papers_count": 9
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 atmospheric_chemistry \u2192 stratospheric_aerosols \u2192 radiative_forcing \u2192 atmospheric_chemistry across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 7 interconnected concepts. Cross-domain connections identified novel research opportunities. 7 concepts showed high research value.",
+        "supporting_papers_count": 10
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 atmospheric_chemistry \u2192 stratospheric_aerosols \u2192 radiative_forcing \u2192 atmospheric_chemistry across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 7 interconnected concepts. Cross-domain connections identified novel research opportunities. 7 concepts showed high research value.",
+        "supporting_papers_count": 10
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 atmospheric_chemistry \u2192 stratospheric_aerosols \u2192 radiative_forcing across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 6 interconnected concepts. Cross-domain connections identified novel research opportunities. 6 concepts showed high research value.",
+        "supporting_papers_count": 9
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 atmospheric_chemistry \u2192 stratospheric_aerosols \u2192 atmospheric_chemistry across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 6 interconnected concepts. Cross-domain connections identified novel research opportunities. 6 concepts showed high research value.",
+        "supporting_papers_count": 10
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 atmospheric_chemistry \u2192 stratospheric_aerosols \u2192 atmospheric_chemistry across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 6 interconnected concepts. Cross-domain connections identified novel research opportunities. 6 concepts showed high research value.",
+        "supporting_papers_count": 10
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 atmospheric_chemistry \u2192 stratospheric_aerosols across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 5 interconnected concepts. Cross-domain connections identified novel research opportunities. 5 concepts showed high research value.",
+        "supporting_papers_count": 9
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 atmospheric_chemistry \u2192 ozone_depletion \u2192 atmospheric_chemistry across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 6 interconnected concepts. Cross-domain connections identified novel research opportunities. 6 concepts showed high research value.",
+        "supporting_papers_count": 9
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 atmospheric_chemistry \u2192 ozone_depletion \u2192 atmospheric_chemistry across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 6 interconnected concepts. Cross-domain connections identified novel research opportunities. 6 concepts showed high research value.",
+        "supporting_papers_count": 9
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 atmospheric_chemistry \u2192 ozone_depletion across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 5 interconnected concepts. Cross-domain connections identified novel research opportunities. 5 concepts showed high research value.",
+        "supporting_papers_count": 8
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols \u2192 atmospheric_chemistry across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 4 interconnected concepts. Cross-domain connections identified novel research opportunities. 4 concepts showed high research value.",
+        "supporting_papers_count": 7
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 stratospheric_aerosols across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 3 interconnected concepts. Cross-domain connections identified novel research opportunities. 3 concepts showed high research value.",
+        "supporting_papers_count": 6
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 atmospheric_chemistry \u2192 chemical_kinetics \u2192 atmospheric_chemistry across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 5 interconnected concepts. Cross-domain connections identified novel research opportunities. 5 concepts showed high research value.",
+        "supporting_papers_count": 8
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 atmospheric_chemistry \u2192 chemical_kinetics \u2192 atmospheric_chemistry across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 5 interconnected concepts. Cross-domain connections identified novel research opportunities. 5 concepts showed high research value.",
+        "supporting_papers_count": 8
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 atmospheric_chemistry \u2192 chemical_kinetics across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 4 interconnected concepts. Cross-domain connections identified novel research opportunities. 4 concepts showed high research value.",
+        "supporting_papers_count": 7
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 atmospheric_chemistry \u2192 stratospheric_aerosols across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 4 interconnected concepts. Cross-domain connections identified novel research opportunities. 4 concepts showed high research value.",
+        "supporting_papers_count": 7
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 atmospheric_chemistry \u2192 stratospheric_aerosols across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 4 interconnected concepts. Cross-domain connections identified novel research opportunities. 4 concepts showed high research value.",
+        "supporting_papers_count": 7
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 atmospheric_chemistry \u2192 ozone_depletion \u2192 atmospheric_chemistry across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 5 interconnected concepts. Cross-domain connections identified novel research opportunities. 5 concepts showed high research value.",
+        "supporting_papers_count": 7
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 atmospheric_chemistry \u2192 ozone_depletion \u2192 atmospheric_chemistry across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 5 interconnected concepts. Cross-domain connections identified novel research opportunities. 5 concepts showed high research value.",
+        "supporting_papers_count": 7
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 atmospheric_chemistry \u2192 ozone_depletion across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 4 interconnected concepts. Cross-domain connections identified novel research opportunities. 4 concepts showed high research value.",
+        "supporting_papers_count": 6
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 atmospheric_chemistry across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 3 interconnected concepts. Cross-domain connections identified novel research opportunities. 3 concepts showed high research value.",
+        "supporting_papers_count": 5
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 QBO_dynamics across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 3 interconnected concepts. Cross-domain connections identified novel research opportunities. 3 concepts showed high research value.",
+        "supporting_papers_count": 4
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics \u2192 QBO_dynamics across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 3 interconnected concepts. Cross-domain connections identified novel research opportunities. 3 concepts showed high research value.",
+        "supporting_papers_count": 4
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 aerosol_microphysics across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 0.877364380249906,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 2 interconnected concepts. Cross-domain connections identified novel research opportunities. 2 concepts showed high research value.",
+        "supporting_papers_count": 4
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 radiative_forcing across climate_science. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 0.718619621742298,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 2 interconnected concepts. 2 concepts showed high research value.",
+        "supporting_papers_count": 2
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 radiative_forcing across climate_science. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 0.718619621742298,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 2 interconnected concepts. 2 concepts showed high research value.",
+        "supporting_papers_count": 2
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 atmospheric_chemistry \u2192 chemical_kinetics \u2192 atmospheric_chemistry across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 4 interconnected concepts. Cross-domain connections identified novel research opportunities. 4 concepts showed high research value.",
+        "supporting_papers_count": 6
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 atmospheric_chemistry \u2192 chemical_kinetics \u2192 atmospheric_chemistry across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 4 interconnected concepts. Cross-domain connections identified novel research opportunities. 4 concepts showed high research value.",
+        "supporting_papers_count": 6
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [
+          "atmospheric_physics"
+        ],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 atmospheric_chemistry \u2192 chemical_kinetics across climate_science and atmospheric_physics. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 3 interconnected concepts. Cross-domain connections identified novel research opportunities. 3 concepts showed high research value.",
+        "supporting_papers_count": 5
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 atmospheric_chemistry \u2192 stratospheric_aerosols across climate_science. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 3 interconnected concepts. 3 concepts showed high research value.",
+        "supporting_papers_count": 5
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 atmospheric_chemistry \u2192 stratospheric_aerosols across climate_science. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 3 interconnected concepts. 3 concepts showed high research value.",
+        "supporting_papers_count": 5
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 atmospheric_chemistry \u2192 ozone_depletion \u2192 atmospheric_chemistry across climate_science. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 4 interconnected concepts. 4 concepts showed high research value.",
+        "supporting_papers_count": 5
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 atmospheric_chemistry \u2192 ozone_depletion \u2192 atmospheric_chemistry across climate_science. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 4 interconnected concepts. 4 concepts showed high research value.",
+        "supporting_papers_count": 5
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 atmospheric_chemistry \u2192 ozone_depletion across climate_science. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 1.0,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 3 interconnected concepts. 3 concepts showed high research value.",
+        "supporting_papers_count": 4
+      },
+      {
+        "primary_domain": "climate_science",
+        "related_domains": [],
+        "insight_text": "Cross-domain analysis reveals connections between stratospheric_aerosols \u2192 atmospheric_chemistry across climate_science. This synthesis suggests novel research directions for Active spectroscopy framework for stratospheric aerosol injection using information-optimal probe signals including multi-sine excitation, PRBS sequences, and chirp signals for system identification. Research focus on frequency-domain system identification methods, second-order Volterra kernel estimation for nonlinear characterization, H-infinity and MPC controller synthesis for robust SAI management, Fisher information maximization under environmental constraints, and early-warning indicator development via phase drift and harmonic growth analysis for cross-model robustness validation. by integrating insights from multiple scientific domains.",
+        "confidence_score": 0.7303451341003925,
+        "synthesis_reasoning": "Starting from stratospheric_aerosols, the analysis explored 2 interconnected concepts. 2 concepts showed high research value.",
+        "supporting_papers_count": 3
+      }
+    ],
+    "mcts_tree_summary": {
+      "root": {
+        "concept": "stratospheric_aerosols",
+        "domain": "climate_science",
+        "visits": 300,
+        "avg_value": 1.099371389715173,
+        "children": 3
+      },
+      "top_children": [
+        {
+          "concept": "aerosol_microphysics",
+          "domain": "atmospheric_physics",
+          "visits": 124,
+          "avg_value": 1.1327217510345455,
+          "children": 3
+        },
+        {
+          "concept": "atmospheric_chemistry",
+          "domain": "climate_science",
+          "visits": 97,
+          "avg_value": 1.0916640125860049,
+          "children": 3
+        },
+        {
+          "concept": "radiative_forcing",
+          "domain": "climate_science",
+          "visits": 79,
+          "avg_value": 1.0564874755117208,
+          "children": 0
+        }
+      ]
+    },
+    "performance_metrics": {
+      "mcts_duration_seconds": 0.04581594467163086,
+      "synthesis_duration_seconds": 182.38526916503906,
+      "total_execution_time": 182.43420696258545
+    }
+  },
+  "metadata": {},
+  "faiss_database_accessed": true,
+  "real_computation_verified": true
+}
